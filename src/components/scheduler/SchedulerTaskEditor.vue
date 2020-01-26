@@ -185,7 +185,7 @@ const SchedulerTaskEditor = createComponent({
 		}
 
 		const save = () => {
-			if (startDate.value && endDate.value && !hoursHaveError.value)
+			if (startDate.value && endDate.value && !hoursHaveError.value) {
 				opts.emit('save', {
 					id: state.id,
 					task: state.task,
@@ -193,7 +193,8 @@ const SchedulerTaskEditor = createComponent({
 					end: toDate(endDate.value),
 					status: state.status,
 				} as ReversedLogTypeDTO)
-			opts.emit('cancel')
+				opts.emit('cancel')
+			}
 		}
 
 		const hoursHaveError = computed(() =>
