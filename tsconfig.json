@@ -13,8 +13,7 @@
     "types": [
       "webpack-env",
       "jest",
-      "buefy",
-      "vee-validate"
+      "buefy"
     ],
     "paths": {
       "@/*": [
