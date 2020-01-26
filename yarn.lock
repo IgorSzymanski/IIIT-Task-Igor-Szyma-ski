@@ -776,11 +776,6 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@fortawesome/fontawesome-free@^5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.12.0.tgz#8ceb9f09edfb85ea18a6c7bf098f6f5dd5ffd62b"
-  integrity sha512-vKDJUuE2GAdBERaQWmmtsciAMzjwNrROXA5KTGSZvayAsmuTGjam5z6QNqNPCwDfVljLWuov1nEC3mEQf/n6fQ==
-
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -10690,11 +10685,6 @@ vary@^1, vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
-
-vee-validate@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-3.2.2.tgz#ec5132bca84f0549a5030a9a20e49569765eb350"
-  integrity sha512-6XogX8Y8HHBQ+be+u1tj3Je6pcIWv2j2JX/BqRpymyObtx1C4ERxY3O3z2ExRBlQ3oM0dN/Y0RsSaBsRyTNIRw==
 
 vendors@^1.0.0:
   version "1.0.4"

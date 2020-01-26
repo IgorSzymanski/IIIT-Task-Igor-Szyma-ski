@@ -5,14 +5,12 @@ import store from './store'
 import VueCompositionApi from '@vue/composition-api'
 import Buefy from 'buefy'
 import { parseDate } from '@/components/scheduler/utility'
-import { ValidationProvider } from 'vee-validate'
 
 Vue.use(VueCompositionApi)
 Vue.use(Buefy, {
 	defaultDateParser: parseDate,
 	defaultFirstDayOfWeek: 1,
 })
-Vue.component('ValidationProvider', ValidationProvider)
 
 Vue.config.productionTip = false
 
