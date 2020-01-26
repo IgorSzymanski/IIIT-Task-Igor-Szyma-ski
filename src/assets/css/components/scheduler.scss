@@ -1,0 +1,16 @@
+@import '../variables';
+
+$day-border-width: 1px;
+$day-padding: $box-padding;
+$day-radius: 30em;
+
+$hours: 24;
+$minutes: 60;
+$columns: [days] auto;
+    @for $h from 0 through ($hours - 1) {
+    @for $m from 0 through ($minutes/10 - 1) {
+        $columns: $columns + unquote(' [h#{$h}-#{$m*10}] 1fr');
+    }
+}
+
+$columns: $columns + unquote('[h24-0] 6em [h25-0 actions]');

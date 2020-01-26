@@ -1,0 +1,40 @@
+@import "variables";
+
+html, body {
+    color: $primary-color;
+    background-color: $background;
+    height: inherit;
+	min-height: 100vh;
+}
+
+.is-inactive {
+    color: $inactive-color;
+}
+
+.is-secondary {
+    color: $secondary-color;
+}
+
+.button {
+    box-shadow: $box-shadow;
+    font-size: 0.8em;
+    &:active {
+        position: relative;
+        top: 2px;
+    }
+}
+
+.modal.has-overflow {
+    position: fixed !important;
+    overflow: auto !important;
+    .modal-background {
+      position: fixed !important; // so page stays dark as we scroll
+    }
+    .modal-content, .modal-card, .modal-card-body {
+      overflow: visible !important;
+    }
+  }
+
+.modal-card {
+    border-radius: $border-radius;
+}

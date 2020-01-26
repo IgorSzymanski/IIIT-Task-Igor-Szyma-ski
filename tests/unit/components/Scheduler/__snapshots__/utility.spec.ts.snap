@@ -1,0 +1,751 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generateDays() Each element matches snapshot 1`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 2`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 3`] = `
+Object {
+  "0": 2,
+  "1": "Sroda",
+  "2": "Sr",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 4`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 5`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 6`] = `
+Object {
+  "0": 3,
+  "1": "Czwartek",
+  "2": "Cz",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 7`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 8`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 9`] = `
+Object {
+  "0": 4,
+  "1": "Piątek",
+  "2": "Pt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 10`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 11`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 12`] = `
+Object {
+  "0": 5,
+  "1": "Sobota",
+  "2": "Sb",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 13`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 14`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 15`] = `
+Object {
+  "0": 6,
+  "1": "Niedziela",
+  "2": "Nd",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 16`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 17`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 18`] = `
+Object {
+  "0": 0,
+  "1": "Poniedziałek",
+  "2": "Pn",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 19`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 20`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 21`] = `
+Object {
+  "0": 1,
+  "1": "Wtorek",
+  "2": "Wt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 22`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 23`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 24`] = `
+Object {
+  "0": 2,
+  "1": "Sroda",
+  "2": "Sr",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 25`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 26`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 27`] = `
+Object {
+  "0": 3,
+  "1": "Czwartek",
+  "2": "Cz",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 28`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 29`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 30`] = `
+Object {
+  "0": 4,
+  "1": "Piątek",
+  "2": "Pt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 31`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 32`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 33`] = `
+Object {
+  "0": 5,
+  "1": "Sobota",
+  "2": "Sb",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 34`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 35`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 36`] = `
+Object {
+  "0": 6,
+  "1": "Niedziela",
+  "2": "Nd",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 37`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 38`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 39`] = `
+Object {
+  "0": 0,
+  "1": "Poniedziałek",
+  "2": "Pn",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 40`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 41`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 42`] = `
+Object {
+  "0": 1,
+  "1": "Wtorek",
+  "2": "Wt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 43`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 44`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 45`] = `
+Object {
+  "0": 2,
+  "1": "Sroda",
+  "2": "Sr",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 46`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 47`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 48`] = `
+Object {
+  "0": 3,
+  "1": "Czwartek",
+  "2": "Cz",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 49`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 50`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 51`] = `
+Object {
+  "0": 4,
+  "1": "Piątek",
+  "2": "Pt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 52`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 53`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 54`] = `
+Object {
+  "0": 5,
+  "1": "Sobota",
+  "2": "Sb",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 55`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 56`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 57`] = `
+Object {
+  "0": 6,
+  "1": "Niedziela",
+  "2": "Nd",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 58`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 59`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 60`] = `
+Object {
+  "0": 0,
+  "1": "Poniedziałek",
+  "2": "Pn",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 61`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 62`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 63`] = `
+Object {
+  "0": 1,
+  "1": "Wtorek",
+  "2": "Wt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 64`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 65`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 66`] = `
+Object {
+  "0": 2,
+  "1": "Sroda",
+  "2": "Sr",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 67`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 68`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 69`] = `
+Object {
+  "0": 3,
+  "1": "Czwartek",
+  "2": "Cz",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 70`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 71`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 72`] = `
+Object {
+  "0": 4,
+  "1": "Piątek",
+  "2": "Pt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 73`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 74`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 75`] = `
+Object {
+  "0": 5,
+  "1": "Sobota",
+  "2": "Sb",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 76`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 77`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 78`] = `
+Object {
+  "0": 6,
+  "1": "Niedziela",
+  "2": "Nd",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 79`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 80`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 81`] = `
+Object {
+  "0": 0,
+  "1": "Poniedziałek",
+  "2": "Pn",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 82`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 83`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 84`] = `
+Object {
+  "0": 1,
+  "1": "Wtorek",
+  "2": "Wt",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 85`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 86`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 87`] = `
+Object {
+  "0": 2,
+  "1": "Sroda",
+  "2": "Sr",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 88`] = `
+Object {
+  "date": Any<Date>,
+  "day": Any<Number>,
+  "dayOfTheWeek": Any<Array>,
+  "month": Any<Array>,
+  "year": Any<Number>,
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 89`] = `
+Object {
+  "0": 1,
+  "1": "Luty",
+}
+`;
+
+exports[`generateDays() Each element matches snapshot 90`] = `
+Object {
+  "0": 3,
+  "1": "Czwartek",
+  "2": "Cz",
+}
+`;
